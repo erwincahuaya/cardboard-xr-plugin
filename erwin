@@ -1,0 +1,4 @@
+<?php
+// Simplemente devuelve un mensaje de texto
+echo "Este es el mensaje desde el servidor web de ERWIN VLADIMIR CAHUAYA PACORICONA";
+?>
